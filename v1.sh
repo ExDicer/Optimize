@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # URL mentah berkas optimizerv1_compiled.py dari GitHub/Hosting
-ONLINE_SCRIPT_URL="https://raw.githubusercontent.com/ExDicer/Optimize/main/optc2.py"
+ONLINE_SCRIPT_URL="https://raw.githubusercontent.com/ExDicer/Optimize/main/optc.py"
 
 echo -e "\e[1;36m[*] Memeriksa dependensi Python & Curl...\e[0m"
 
